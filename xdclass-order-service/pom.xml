@@ -12,4 +12,13 @@
     <artifactId>xdclass-order-service</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>com.default</groupId>
+            <artifactId>xdclass-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
+
 </project>
